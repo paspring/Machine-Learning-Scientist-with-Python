@@ -14,3 +14,7 @@ This repository showcases my machine learning skills acquired through DataCamp's
     * Natural Language Processing 
     * Image Processing 
 
+**Docker Notes**
+
+Start jupyter from interpreter: 
+`jupyter notebook --ip=0.0.0.0 --allow-root --no-browser --NotebookApp.token=''`
